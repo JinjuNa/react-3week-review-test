@@ -1,0 +1,22 @@
+.counter-container {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #efefef;
+    text-align: center;
+}
+
+.counter-container button {
+    padding: 10px;
+    margin: 10px;
+    border : none;
+    color: white;
+}
+
+.btn-plus {
+    background-color: red;
+}
+
+.btn-minus {
+    background-color: blue;
+}
